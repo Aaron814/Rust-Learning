@@ -5,7 +5,7 @@
 **/deps
 **/incremental
 Cargo.lock
-rustc_info.json
+.rustc_info.json
 hello_cargo/target/.rustc_info.json
 .cargo-lock
 *.d
