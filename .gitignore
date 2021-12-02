@@ -10,3 +10,5 @@ hello_cargo/target/.rustc_info.json
 .cargo-lock
 *.d
 CACHEDIR.TAG
+**/target/doc
+guessing_game/target/.rustdoc_fingerprint.json
